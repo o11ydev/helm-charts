@@ -16,6 +16,18 @@ entries:
   alertmanager2kafka:
   - apiVersion: v2
     appVersion: latest
+    created: "2024-06-07T16:14:22.067195954Z"
+    description: '[Alertmanager2kafaka]() application allows you to publish alertmanager
+      alerts on kafka topics.  Sources -- https://github.com/o11ydev/alertmanager2kafka
+      -- https://github.com/fpytloun/alertmanager2kafka -- https://github.com/webdevops/alertmanager2es '
+    digest: 44e90fb4e733cdced821edd516084e5d912ff9492e0bdee4a5b48dc3726911e3
+    name: alertmanager2kafka
+    type: application
+    urls:
+    - https://github.com/o11ydev/helm-charts/releases/download/alertmanager2kafka-v0.1.2/alertmanager2kafka-v0.1.2.tgz
+    version: v0.1.2
+  - apiVersion: v2
+    appVersion: latest
     created: "2024-05-30T11:20:22.695187778Z"
     description: '[Alertmanager2kafaka]() application allows you to publish alertmanager
       alerts on kafka topics.  Sources -- https://github.com/o11ydev/alertmanager2kafka
@@ -38,4 +50,4 @@ entries:
     urls:
     - https://github.com/o11ydev/helm-charts/releases/download/alertmanager2kafka-v0.1.0/alertmanager2kafka-v0.1.0.tgz
     version: v0.1.0
-generated: "2024-05-30T11:20:22.695202566Z"
+generated: "2024-06-07T16:14:22.067243113Z"
